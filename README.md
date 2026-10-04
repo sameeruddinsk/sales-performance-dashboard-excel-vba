@@ -68,3 +68,5 @@ The dashboard can help users:
 - Monitor sales distribution.
 - Support MIS reporting and management decision-making.
 📷 Dashboard Preview
+<img width="1665" height="767" alt="salesperformance_dahboard" src="https://github.com/user-attachments/assets/4e140258-02a3-478e-a8be-d19703680106" />
+
